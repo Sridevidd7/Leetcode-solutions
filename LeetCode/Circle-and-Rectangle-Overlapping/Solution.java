@@ -1,0 +1,1 @@
+int closestX = max(x1, min(xCenter, x2));
