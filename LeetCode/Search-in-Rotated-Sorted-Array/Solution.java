@@ -11,14 +11,14 @@
 11                return mid;
 12            }
 13            
-14            if( nums[mid]>=nums[left]){
+14            if( nums[mid]>=nums[left]){ //left sorted array
 15                if(target>=nums[left]&& target<nums[mid]){
 16                    right= mid-1;
 17                }else{
 18                    left=mid+1;
 19                }
 20            }else{
-21                if(target<=nums[right]&& target > nums[mid]){
+21                if(target<=nums[right]&& target > nums[mid]){ //right sorted array
 22                    left =mid+1;
 23                }else{
 24                    right= mid-1;
