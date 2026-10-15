@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sridevidd7/Leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sridevidd7/Leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sridevidd7/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sridevidd7/Leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sridevidd7/Leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sridevidd7/Leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
 |  |
 | ------- |
@@ -92,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sridevidd7/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sridevidd7/Leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sridevidd7/Leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
